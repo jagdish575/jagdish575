@@ -5,15 +5,15 @@
   <img src="https://profile-counter.glitch.me/SamChawla/count.svg" />
 </p>
 
-- 🔭 I’m currently working on **Youtubeclone project**
+- 🔭 I’m currently working on **Ecommerce project**
 
 - 🌱 I’m currently learning **Django Framework**
 
-- 🤝 I’m looking for help with **youtube clone project**
+- 🤝 I’m looking for help with **Crypto project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jagdish575](https://github.com/jagdish575)
 
-- 💬 Ask me about **Python or django**
+- 💬 Ask me about **Python or Django,Fastapi**
 
 - 📫 How to reach me **Jagdishprajapati573@gmail.com**
 
