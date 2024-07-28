@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jagdish Prajapati</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SamChawla/count.svg" />
+</p>
 
 - 🔭 I’m currently working on **Youtubeclone project**
 
