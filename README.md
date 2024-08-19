@@ -3,9 +3,6 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/SamChawla/count.svg" />
-  for _ in range(100):  # Adjust the range for the number of visits you want to simulate
-    response = requests.get(url)
-    print(f"Status Code: {response.status_code}")
 </p>
 
 - 🔭 I’m currently working on **Ecommerce project**
